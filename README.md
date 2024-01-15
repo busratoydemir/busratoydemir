@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**busratoydemir/busratoydemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![imagegit](https://i.ibb.co/bbX7m9M/Yellow-Orange-Bold-Retro-Pattern-Welcome-Discord-Profile-Banner-1.png)
 
-Here are some ideas to get you started:
+<h1 align="center">Hey, I'm Busra 👩‍💻</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h1 align="center">
+  Let's Connect!💬
+</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/busratoydemir/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</p>
